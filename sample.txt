@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 AWS
 Devops
-=======
 This file is regarding to the cloud.ai //Arshiya//
->>>>>>> e951ce46ba05e2a7917512c64fd3a2d02cef47a2
